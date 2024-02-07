@@ -1,4 +1,4 @@
-# Hi there 👋 This is BESTI-CSP Lab homepage
+# Hey there 👋   Welcome to BESTI-CSP Lab
 北京电子科技学院系统安全与隐私保护实验室  
 聚焦于隐私保护、人工智能安全、系统安全、联邦学习、网络安全等方面研究与产业转化
 
