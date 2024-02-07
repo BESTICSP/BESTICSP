@@ -7,8 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=besticsp&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=besticsp" /> </div>
+<div> <img src="https://github-profile-trophy.vercel.app/?username=besticsp" /> </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=besticsp&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
