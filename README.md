@@ -7,6 +7,10 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=besticsp" /> </div>
 
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=besticsp&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=besticsp" /> </div>
+
 
 <!--
 **BESTICSP/BESTICSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
