@@ -1,4 +1,5 @@
-# Hey there！ 🧧🧧  Welcome to BESTI-CSP Lab 🧧🧧  北京电子科技学院系统安全与隐私保护实验室  恭祝您新年快乐，龙年吉祥！
+# Hey there！ 🧧🧧  Welcome to BESTI-CSP Lab 🧧🧧
+# 北京电子科技学院系统安全与隐私保护实验室 恭祝您新年快乐，龙年吉祥！
 
 <div align="center">
   简体中文 · English
