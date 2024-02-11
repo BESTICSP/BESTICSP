@@ -81,7 +81,7 @@
 
 1. Yuyang Han, Xu Ji, Zhiqiang Wang & **Jianyi Zhang***. “Systematic Analysis of Security and Vulnerabilities in Miniapps” SaTS CCS Workshop 2023 [[Paper]](https://arxiv.org/pdf/2311.11382.pdf)
 
-2. **Zhang, Jianyi***, Guan, Ronglin, Li, Xiuying , Zhao, Zhangchi, Sun, Zezheng. “Invisibility Spell: Adversarial Patch Attack Against Object Detectors” EAI SecureComm 2023
+2. **Zhang, Jianyi***, Guan, Ronglin, Li, Xiuying , Zhao, Zhangchi, Sun, Zezheng. “Invisibility Spell: Adversarial Patch Attack Against Object Detectors” EAI SecureComm 2023 [[Paper]](https://securecomm.eai-conferences.org/2023/accepted-papers)
 
 3. **Jianyi Zhang***, Zhenkui Li, Yudong Liu, Zezheng Sun, and Zhiqiang Wang. “Safte: A Self-Injection Based Anti-Fuzzing Technique Anonymous.” Computers and Electrical Engineering [[Paper]](https://www.sciencedirect.com/science/article/pii/S0045790623004044)
 
