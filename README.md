@@ -4,7 +4,7 @@
 北京电子科技学院 系统安全与隐私保护实验室  
 恭祝您新年快乐，龙年吉祥！   
 
-zh_CN [简体中文](readme/README.zh_CN.md) 
+zh_CN [简体中文](readme/readme.zh_CN.md) 
 EN [English](README.md) 
 
 <div align="center">
