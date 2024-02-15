@@ -5,7 +5,7 @@
 恭祝您新年快乐，龙年吉祥！   
 
 zh_CN [简体中文](readme/README.zh_CN.md) 
-EN [English] (README.md) 
+EN [English](README.md) 
 
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
