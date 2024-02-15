@@ -2,9 +2,8 @@
 <image src="https://cdn.jsdelivr.net/gh/tigeryounger/images/BESTI-CSP.png">
   
 北京电子科技学院 系统安全与隐私保护实验室  
-恭祝您新年快乐，龙年吉祥！  
-- zh_CN [简体中文](readme/README.zh_CN.md)
-- EN [English](README.md)
+恭祝您新年快乐，龙年吉祥！   
+<center> zh_CN [简体中文](readme/README.zh_CN.md) EN [English](README.md) </center>
 <div align="center">
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
