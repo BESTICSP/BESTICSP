@@ -72,6 +72,7 @@ EN [English](README.md)
 
 ## 毕业生
 2019
+
 张方佼-海康威视
 
 黄玄曦-浙江龙游县
@@ -81,6 +82,7 @@ EN [English](README.md)
 刘琳杰-乳山市委
 
 2020
+
 金琪超-浙江瑞安市委
 
 黎振奎-黎云南住建厅
@@ -92,6 +94,7 @@ EN [English](README.md)
 官榕林-合肥市场监督局
 
 2021
+
 赵奕涵-北京怀柔区委
 
 吴庸-天津市公安局
@@ -112,12 +115,15 @@ EN [English](README.md)
 
 ## 硕士研究生
 2022
+
 姬旭、孙泽正、李泽平
 
 2023
+
 周子寅、李毅龙、韩佳萌、安星宇、赵若云
 
 2024
+
 刘仕钊、李臻、时书博、吴昊宇
 
 ## 本科生
@@ -125,47 +131,51 @@ EN [English](README.md)
 
 # 成果简介
 
-Ziyin Zhou, Xu Ji, Jianyi Zhang, Zhangchi Zhao, Xiali Hei, Kim-Kwang Raymod Choo. "Ethical Considerations and Policy Implications for Large Language Models: Guiding Responsible Development and Deployment", In EAI SmartSP, 2024
+Zhangchi Zhao, **Jianyi Zhang***, Liqun Shan, Ziyin Zhou, Kaiying Han, Xiali Hei. "Paa-Tee: A Practical Adversarial Attack on Thermal Infrared Detectors with Temperature and Pose Adaptability",In Trustcom/BigDataSE​ SPA, IEEE,2024.(CCF-C)
 
-Ji, Xu, Zhang, Jianyi, Zhou, Ziyin, Zhao, Zhanghci, Qiao, Qianqian, Han, Kaiying, Hossen, Md Imran, Hei, Xiali. "Can't say cant? Measuring and Reasoning of Dark Jargons in Large Language Models", In EAI SecureComm 2024
+Yilong Li, **Jianyi Zhang***, Ziyin Zhou, Zezheng Sun, Xu Ji, Zeping Li, Jiameng Han, Zhangchi Zhao. "D^2FL: Dimensional Disaster-oriented Backdoor Attack Defense Of Federated Learning",In Trustcom/BigDataSE​ SPA, IEEE,2024.(CCF-C)
 
-姬旭,张健毅,赵张驰,周子寅,李毅龙 & 孙泽正.(2024).一种面向特殊领域隐语的大语言模型检测系统.信息安全研究(09),795-803.
+Ziyin Zhou, Xu Ji, **Jianyi Zhang***, Zhangchi Zhao, Xiali Hei, Kim-Kwang Raymod Choo. "Ethical Considerations and Policy Implications for Large Language Models: Guiding Responsible Development and Deployment", In EAI SmartSP, 2024
 
-Yuyang Han, Zilong Xiao, Zhiqiang Wang & Jianyi Zhang. "Privacy Policy Compliance in Miniapps: An Analytical Study" SaTS CCS Workshop 2024
+Ji, Xu, **Zhang, Jianyi***, Zhou, Ziyin, Zhao, Zhanghci, Qiao, Qianqian, Han, Kaiying, Hossen, Md Imran, Hei, Xiali. "Can't say cant? Measuring and Reasoning of Dark Jargons in Large Language Models", In EAI SecureComm 2024.(CCF-C)
 
-Zhang, J., Wang, Y., Tu, Y., Rampazzi, S., Lin, Z., Lee, I., & Hei, X. (2023, October). ADC-Bank: Detecting Acoustic Out-of-Band Signal Injection on Inertial Sensors. In International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (pp. 53-72). Cham: Springer Nature Switzerland.
+姬旭,**张健毅***,赵张驰,周子寅,李毅龙 & 孙泽正.(2024).一种面向特殊领域隐语的大语言模型检测系统.信息安全研究(09),795-803, 2024.(CCF-T3)
 
-Yuyang Han, Xu Ji, Zhiqiang Wang & **Jianyi Zhang***. “Systematic Analysis of Security and Vulnerabilities in Miniapps” SaTS CCS Workshop 2023 [[Paper]](https://arxiv.org/pdf/2311.11382.pdf)
+Yuyang Han, Zilong Xiao, Zhiqiang Wang & **Jianyi Zhang***. "Privacy Policy Compliance in Miniapps: An Analytical Study" SaTS CCS Workshop 2024.(CCF-A Workshop)
 
-**Zhang, Jianyi***, Guan, Ronglin, Li, Xiuying , Zhao, Zhangchi, Sun, Zezheng. “Invisibility Spell: Adversarial Patch Attack Against Object Detectors” EAI SecureComm 2023 [[Paper]](https://securecomm.eai-conferences.org/2023/accepted-papers)
+**Zhang, J.***, Wang, Y., Tu, Y., Rampazzi, S., Lin, Z., Lee, I., & Hei, X. (2023, October). ADC-Bank: Detecting Acoustic Out-of-Band Signal Injection on Inertial Sensors. In International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (pp. 53-72). Cham: Springer Nature Switzerland. (Best Paper)
 
- **Jianyi Zhang***, Zhenkui Li, Yudong Liu, Zezheng Sun, and Zhiqiang Wang. “Safte: A Self-Injection Based Anti-Fuzzing Technique Anonymous.” Computers and Electrical Engineering [[Paper]](https://www.sciencedirect.com/science/article/pii/S0045790623004044)
+Yuyang Han, Xu Ji, Zhiqiang Wang & **Jianyi Zhang***. “Systematic Analysis of Security and Vulnerabilities in Miniapps” SaTS CCS Workshop 2023. (CCF-A Workshop)[[Paper]](https://arxiv.org/pdf/2311.11382.pdf)
 
-Li, Xiaodong, Hehe Gao, **Jianyi Zhang***, Shuya Yang, Xin Jin, and Kim-Kwang Raymond Choo. “GPU Accelerated Full Homomorphic Encryption Cryptosystem, Library and Applications for IoT Systems.” IEEE Internet of Things Journal (2023). [[Paper]](https://ieeexplore.ieee.org/document/10243573)
+**Zhang, Jianyi***, Guan, Ronglin, Li, Xiuying , Zhao, Zhangchi, Sun, Zezheng. “Invisibility Spell: Adversarial Patch Attack Against Object Detectors” EAI SecureComm 2023. (CCF-C)[[Paper]](https://securecomm.eai-conferences.org/2023/accepted-papers)
 
-Shi, Rui, Yang Yang, Huamin Feng, Feng Yuan, Huiqin Xie, and **Jianyi Zhang***. “PriRPT: Practical blockchain-based privacy-preserving reporting system with rewards.” Journal of Systems Architecture 143 (2023): 102985.[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762123001649)
+ **Jianyi Zhang***, Zhenkui Li, Yudong Liu, Zezheng Sun, and Zhiqiang Wang. “Safte: A Self-Injection Based Anti-Fuzzing Technique Anonymous.” Computers and Electrical Engineering, 2023. (中科院3区) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0045790623004044)
 
-**Zhang, Jianyi***, Xuanxi Huang, Yaqi Liu, Yuyang Han, and Zixiao Xiang. “GAN-based Medical Image Small Region Forgery Detection via a Two-Stage Cascade Framework.”PLOS One, 2023. [[Paper]](https://arxiv.org/abs/2205.15170)
+Li, Xiaodong, Hehe Gao, **Jianyi Zhang***, Shuya Yang, Xin Jin, and Kim-Kwang Raymond Choo. “GPU Accelerated Full Homomorphic Encryption Cryptosystem, Library and Applications for IoT Systems.” IEEE Internet of Things Journal (2023). (中科院1区Top)[[Paper]](https://ieeexplore.ieee.org/document/10243573)
 
-**Zhang, Jianyi***, Leixin Yang, Yuyang Han, Zixiao Xiang, and Xiali Hei. “A Small Leak Will Sink Many Ships: Vulnerabilities Related to mini-programs Permissions.” In 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 595-606. IEEE, 2023.[[Paper]](https://arxiv.org/abs/2205.15202)
+Shi, Rui, Yang Yang, Huamin Feng, Feng Yuan, Huiqin Xie, and **Jianyi Zhang***. “PriRPT: Practical blockchain-based privacy-preserving reporting system with rewards.” Journal of Systems Architecture 143 (2023): 102985.(中科院2区)[[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1383762123001649)
 
- Shi, R., Yang, Y., Xie, H., Feng, H., Shi, G., & **Zhang, J.*** (2023). PriSign, A Privacy-Preserving Single Sign-On System for Cloud Environments. Applied Sciences, 13(2), 727.[[Paper]](https://www.mdpi.com/2076-3417/13/2/727)
+**Zhang, Jianyi***, Xuanxi Huang, Yaqi Liu, Yuyang Han, and Zixiao Xiang. “GAN-based Medical Image Small Region Forgery Detection via a Two-Stage Cascade Framework.”PLOS One, 2023.(中科院3区) [[Paper]](https://arxiv.org/abs/2205.15170)
 
-**Zhang, J.***, Zhang, F., Jin, Q., Wang, Z., Lin, X., & Hei, X. (2023). XMAM: X-raying models with a matrix to reveal backdoor attacks for federated learning. Digital Communications and Networks.[[Paper]](https://arxiv.org/abs/2212.13675)
+**Zhang, Jianyi***, Leixin Yang, Yuyang Han, Zixiao Xiang, and Xiali Hei. “A Small Leak Will Sink Many Ships: Vulnerabilities Related to mini-programs Permissions.” In 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), pp. 595-606. IEEE, 2023.(CCF-C)[[Paper]](https://arxiv.org/abs/2205.15202)
 
-刘飚, 张方佼, 王文鑫, 谢康, **张健毅**. 基于矩阵映射的拜占庭鲁棒联邦学习算法[J]. 计算机研究与发展, 2021, 58(11): 2416-2429. DOI: 10.7544/issn1000-1239.2021.20210633(CCF-A 中文期刊) [[Paper]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20210633)
+ Shi, R., Yang, Y., Xie, H., Feng, H., Shi, G., & **Zhang, J.*** (2023). PriSign, A Privacy-Preserving Single Sign-On System for Cloud Environments. Applied Sciences, 13(2), 727.(中科院3区)[[Paper]](https://www.mdpi.com/2076-3417/13/2/727)
+
+**Zhang, J.***, Zhang, F., Jin, Q., Wang, Z., Lin, X., & Hei, X. (2023). XMAM: X-raying models with a matrix to reveal backdoor attacks for federated learning. Digital Communications and Networks.(中科院2区)[[Paper]](https://arxiv.org/abs/2212.13675)
+
+刘飚, 张方佼, 王文鑫, 谢康, **张健毅**. 基于矩阵映射的拜占庭鲁棒联邦学习算法[J]. 计算机研究与发展, 2021, 58(11): 2416-2429. DOI: 10.7544/issn1000-1239.2021.20210633.(CCF-A 中文期刊) [[Paper]](https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2021.20210633)
 
 李晓东, 胡一鸣, 池亚平, 钱榕, & **张健毅**. (2022). 基于通用计算平台sm4-ctr算法并行实现与优化. 密码学报(004), 009.(CCF-B 中文期刊) [[Paper]](http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000540)
 
-**Zhang, Jianyi**, et al. “Gemini-Chain: A Regulatable Digital Currency Model based on Blockchain.” IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2020. (CCF-A) [[Paper]](https://ieeexplore.ieee.org/document/9163025)
+**Zhang, Jianyi**, et al. “Gemini-Chain: A Regulatable Digital Currency Model based on Blockchain.” IEEE INFOCOM 2020-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2020. (CCF-A Workshop) [[Paper]](https://ieeexplore.ieee.org/document/9163025)
 
 **Zhang, Jianyi**, et al. “A Multimodal Prediction Method with Federated Machine Learning on Medical Data.” BASIC & CLINICAL PHARMACOLOGY & TOXICOLOGY. Vol. 126. 111 RIVER ST, HOBOKEN 07030-5774, NJ USA: WILEY, 2020. (中科院 3 区) [[Paper]](https://arxiv.org/abs/2310.09650)
 
-Z. Wang, P. Ma, X. Zou, **J. Zhang** and T. Yang, "Security of Medical Cyber-physical Systems: An Empirical Study on Imaging Devices," IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS), Toronto, ON, Canada, 2020, pp. 997-1002, doi: 10.1109/INFOCOMWKSHPS50562.2020.9162769.[[Paper]](https://arxiv.org/abs/1904.00224)
+Z. Wang, P. Ma, X. Zou, **J. Zhang** and T. Yang, "Security of Medical Cyber-physical Systems: An Empirical Study on Imaging Devices," IEEE INFOCOM 2020 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS, CCF-A Workshop), Toronto, ON, Canada, 2020, pp. 997-1002, doi: 10.1109/INFOCOMWKSHPS50562.2020.9162769.[[Paper]](https://arxiv.org/abs/1904.00224)
 
-K. Zhang, Y. Liang, J. **Zhang, Z**. Wang and X. Li, "No One Can Escape: A General Approach to Detect Tampered and Generated Image," in IEEE Access, vol. 7, pp. 129494-129503, 2019, doi: 10.1109/ACCESS.2019.2939812.(中科院 2 区) [[Paper]](https://ieeexplore.ieee.org/document/8826269)
+K. Zhang, Y. Liang, J. **Zhang, Z**. Wang and X. Li, "No One Can Escape: A General Approach to Detect Tampered and Generated Image," in IEEE Access, vol. 7, pp. 129494-129503, 2019, doi: 10.1109/ACCESS.2019.2939812.(中科院 3 区) [[Paper]](https://ieeexplore.ieee.org/document/8826269)
 
-Wang, Z.; Ma, P.; Chi, Y. and **Zhang, Jianyi**, Medical Devices are at Risk: Information Security on Diagnostic Imaging System[C]. In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS2018 Poster), ACM, 2018: 2309-2311. (Corresponding author) (CCF-A).[[Paper]](https://dl.acm.org/doi/10.1145/3243734.3278513)
+Wang, Z.; Ma, P.; Chi, Y. and **Zhang, Jianyi**, Medical Devices are at Risk: Information Security on Diagnostic Imaging System[C]. In Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security (CCS2018 Poster), ACM, 2018: 2309-2311. (Corresponding author) (CCF-A Workshop).[[Paper]](https://dl.acm.org/doi/10.1145/3243734.3278513)
 
 **Zhang, Jianyi**, URL Based Gateway Side Phishing Detection Method[C]. IEEE International Conference on Trust, Security and Privacy in Computing and Communications, IEEE, 2016: 268-275 (CCF-C).[[Paper]](https://ieeexplore.ieee.org/document/7846956)
 
