@@ -73,24 +73,37 @@ EN [English](README.md)
 ## 毕业生
 2019
 张方佼-海康威视
+
 黄玄曦-浙江龙游县
+
 杨蕾新-太原晋源区
+
 刘琳杰-乳山市委
 
 2020
 金琪超-浙江瑞安市委
+
 黎振奎-黎云南住建厅
+
 王文鑫-工信部
+
 吴睿龙-水利部信息中心
+
 官榕林-合肥市场监督局
 
 2021
 赵奕涵-北京怀柔区委
+
 吴庸-天津市公安局
+
 项紫啸-杭州市公安局
+
 孙志-浙江桐乡市委
+
 王琪-北京铁路运输检察院
+
 朱晓鹏-公司
+
 韩禹洋-直博
 
 ## 博士研究生
@@ -111,6 +124,16 @@ EN [English](README.md)
 赵张驰、于馨博
 
 # 成果简介
+
+Ziyin Zhou, Xu Ji, Jianyi Zhang, Zhangchi Zhao, Xiali Hei, Kim-Kwang Raymod Choo. "Ethical Considerations and Policy Implications for Large Language Models: Guiding Responsible Development and Deployment", In EAI SmartSP, 2024
+
+Ji, Xu, Zhang, Jianyi, Zhou, Ziyin, Zhao, Zhanghci, Qiao, Qianqian, Han, Kaiying, Hossen, Md Imran, Hei, Xiali. "Can't say cant? Measuring and Reasoning of Dark Jargons in Large Language Models", In EAI SecureComm 2024
+
+姬旭,张健毅,赵张驰,周子寅,李毅龙 & 孙泽正.(2024).一种面向特殊领域隐语的大语言模型检测系统.信息安全研究(09),795-803.
+
+Yuyang Han, Zilong Xiao, Zhiqiang Wang & Jianyi Zhang. "Privacy Policy Compliance in Miniapps: An Analytical Study" SaTS CCS Workshop 2024
+
+Zhang, J., Wang, Y., Tu, Y., Rampazzi, S., Lin, Z., Lee, I., & Hei, X. (2023, October). ADC-Bank: Detecting Acoustic Out-of-Band Signal Injection on Inertial Sensors. In International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (pp. 53-72). Cham: Springer Nature Switzerland.
 
 Yuyang Han, Xu Ji, Zhiqiang Wang & **Jianyi Zhang***. “Systematic Analysis of Security and Vulnerabilities in Miniapps” SaTS CCS Workshop 2023 [[Paper]](https://arxiv.org/pdf/2311.11382.pdf)
 
