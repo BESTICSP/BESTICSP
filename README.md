@@ -119,29 +119,54 @@ EN [English](README.md)
 
   韩禹洋-直博
 
+  -2022
+
+  姬旭-直博
+
+  孙泽正-山东省政协
+
+  李泽平-山西省委
+
+  赵张弛-上海崇明区委
+  
+  -2023
+
+  周子寅-苏州工业园
+
+  李毅龙-四川乐山市委
+
+  赵若云-太原晋源区委
+
+  韩佳萌-山东滕州市委
+
+  安星宇-唐山市委
+
 ## 博士研究生
-- 2024
+-2024
   
   伏俊
 
 ## 硕士研究生
-- 2022
 
-  姬旭、孙泽正、李泽平
-
-- 2023
-
-  周子寅、李毅龙、韩佳萌、安星宇、赵若云
-
-- 2024
+-2024
 
   刘仕钊、李臻、时书博、吴昊宇
 
-## 本科生
+-2025
 
-赵张驰、于馨博
+  郑守浩、马凯明、时进旭、郭熠桓
+  
+-2026
+  
+ 卢岱霄、冯锦恺
 
 # 成果简介
+
+Fu J, Zhang J, Peng H, Zhang W, Han K, Hei X. An Attention-Gated Graph Spiking Neural Membrane System for Structure-Activity Relationship Prediction. International Journal of Neural Systems. 2026 (JCR 1 Top)
+
+Y. Liu, H. Wang, J. Zhang, S. Xiao and Q. Cai, "RHN: RoI Restricted Hybrid Network for Instance-Aware Image-to-Image Translation," in IEEE Signal Processing Letters, vol. 32, pp. 1156-1160, 2025 (JCR 2)
+
+Xiao, Chaoen, Sirui Peng, Lei Zhang, Jianxin Wang, Ding Ding, and Jianyi Zhang. "A transformer-based adversarial network framework for steganography." Expert Systems with Applications 269 (JCR 1)
 
 Zhangchi Zhao, **Jianyi Zhang***, Liqun Shan, Ziyin Zhou, Kaiying Han, Xiali Hei. "Paa-Tee: A Practical Adversarial Attack on Thermal Infrared Detectors with Temperature and Pose Adaptability",In Trustcom/BigDataSE​ SPA, IEEE,2024.(CCF-C)
 
